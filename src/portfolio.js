@@ -14,6 +14,7 @@ const about = {
   social: {
     linkedin: 'https://www.linkedin.com/in/siddharth-sinha-x8/',
     github: 'https://github.com/sidx8',
+    twitter: 'https://twitter.com/sid_x8',
   },
 }
 
