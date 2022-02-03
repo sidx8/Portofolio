@@ -31,10 +31,10 @@ const projects = [
   {
     name: 'Switch Home',
     description:
-      '',
+      'A Smart Home app that controls you home electronic devices through nodemcu',
     stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+    sourceCode: 'https://github.com/sidx8/Lumos-Homes',
+    livePreview: 'https://play.google.com/store/apps/details?id=com.socialcompany.switchhomes',
   },
   {
     name: 'Smart Home Mobile App',
