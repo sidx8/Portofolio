@@ -9,7 +9,7 @@ const about = {
   name: 'Siddharth Sinha',
   role: 'FullStack Developer',
   description:
-    'Hi there, A little about myself i am doing my bacherlors in computer science from guru gobindh singh indraprastha university expected(2022)',
+    'Hi there, A little about myself i am currently doing my bacherlors in computer science and have worked on a couple of startups.',
   resume: 'https://drive.google.com/file/d/138PfQ-ze0IRLV0z1V6cWufMr00Tn4863/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/siddharth-sinha-x8/',
@@ -21,17 +21,17 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'Project 1',
+    name: 'Shopy Fast',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
+      'Grocery Delivery App Built Useing Fluttter',
+    stack: ['Flutter', 'Node.js', 'React'],
     sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+    livePreview: 'https://play.google.com/store/apps/details?id=com.socialcompany.shopyfast',
   },
   {
-    name: 'Project 2',
+    name: 'Switch Home',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
+      '',
     stack: ['SASS', 'TypeScript', 'React'],
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
